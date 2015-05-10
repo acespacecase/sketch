@@ -1,0 +1,39 @@
+#container{
+	margin:50px auto;
+	border: 2px black;
+	width: 500px;
+	display: block;
+	font-size:0;
+}
+
+#header, #footer {
+	margin: auto;
+	width: 250;
+	text-align:center;
+}
+
+h1 {
+	margin: 50px 0 0 0;
+	font-family: Helvetica, Arial, sans-serif;
+	text-transform: uppercase;
+	font-size: 20pt;
+	color: #555;
+}
+
+.grid{
+	background-color:#989898;
+	float: left;
+}
+
+.hovered{
+	background-color:#888;
+}
+
+.eraser {
+	margin: 20px auto;
+	background-color: #555;
+	padding: 10px;
+	border: 0;
+	border-radius: 12px;
+	color: #fff;
+}
